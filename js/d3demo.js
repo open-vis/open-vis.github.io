@@ -91,7 +91,7 @@ d3.csv("stocks.csv", function (data) {
         .data(symbols)
         .enter().append("g")
         .attr("class", "symbol");
-    
+
     ready = true;
     //setTimeout(lines, duration);
 });
@@ -747,7 +747,7 @@ function donutExplode() {
 
     function checkHidden() {
         if (!document.hidden) {
-            
+
         } else {
             setTimeout(checkHidden, duration);
         }
@@ -764,9 +764,9 @@ function donutExplode() {
 }
 
 
-d3.select("#demo").on("mouseover",function(){
+d3.select("#demo").on("mouseover", function () {
     if (!running && ready) {
-        lines();   
+        lines();
     }
 });
 

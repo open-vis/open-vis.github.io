@@ -72,7 +72,7 @@ header .row { z-index: 2; position: relative; }
 
 .subheader { text-align: center; color: white; text-transform: uppercase; }
 .open-knowledge-foundation, .dat { width: 150px; float: right; }
-.dat { margin-right: 35px; position: relative; top: 20px; }
+.dat { margin-right: 35px; position: relative; top: 0px; }
 
 .logo { font-family: 'Open Sans';}
 
