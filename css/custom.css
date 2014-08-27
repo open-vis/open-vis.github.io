@@ -71,7 +71,7 @@ header .row { z-index: 2; position: relative; }
 .section-signup a { color: white; text-decoration: underline; }
 
 .subheader { text-align: center; color: white; text-transform: uppercase; }
-.open-knowledge-foundation, .dat { width: 150px; float: right; }
+.open-knowledge-foundation, .dat { width: 80px; float: right; }
 .dat { margin-right: 35px; position: relative; top: 0px; }
 
 .logo { font-family: 'Open Sans';}
