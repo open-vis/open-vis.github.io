@@ -9114,7 +9114,7 @@ input::-moz-focus-inner {
   padding: 0 15px;
   text-align: center;
 }
-@media only screen and (min-width: 320px) {
+@media only screen and (min-width: 120px) {
   .features-item {
     width: 100%;
   }
